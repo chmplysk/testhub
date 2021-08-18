@@ -1,3 +1,4 @@
 # testhub
 
-sample update
+sample updates
+git diff
